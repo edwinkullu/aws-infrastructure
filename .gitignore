@@ -1,0 +1,8 @@
+# Local .terraform directories
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+# In environments, we usually want to ignore .tfvars if they contain secrets.
+# However, we are tracking ours because they currently only contain structural variables.
